@@ -1,0 +1,27 @@
+# python中的标准数据类型 有五种：
+
+numbers(数字)
+
+string（字符串）
+
+list(列表)
+
+tuple(元祖)
+
+dictionary(字典)
+
+
+
+其中支持四中不同数字类型：
+
+int(有符号整型)
+
+long(长整型)
+
+float（浮点型）
+
+complex(复数)
+
+可变数据类型：列表list[] 字典dict{}
+
+不可变类型：整型int  字符串str  元祖tuple()
